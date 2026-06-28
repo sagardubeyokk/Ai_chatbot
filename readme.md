@@ -5,7 +5,7 @@ A conversational AI chatbot built with **Streamlit** and powered by **Groq's LLa
 ---
 
 ##  Live Demo
-> Coming soon after deployment on Streamlit Cloud
+>  [Click here to try the chatbot!](https://sagar-ai-chatbot.streamlit.app)
 
 ---
 
